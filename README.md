@@ -1,3 +1,3 @@
 # MasterWorkshop
 
-A workshop resourses management system.
+A repair shop resourses management system.
